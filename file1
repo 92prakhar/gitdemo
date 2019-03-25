@@ -6,22 +6,15 @@
 <body>
 
 <div class="w3-container">
+  <h2>Displaying Large Quotes</h2>
+  <p>The w3-panel class can be used to display quotes:</p>
 
-<h2>Large Tags (Labels or Signs)</h2>
-
-<p>
-<span class="w3-tag w3-xlarge w3-blue">66</span>
-<span class="w3-tag w3-xxlarge w3-blue">66</span>
-<span class="w3-tag w3-xxxlarge w3-blue">66</span>
-</p>
-
-<p>
-<span class="w3-tag w3-jumbo w3-blue">66</span>
-<span class="w3-tag w3-jumbo w3-blue w3-padding-large">66</span>
-</p>
-
+  <div class="w3-panel w3-leftbar w3-sand">
+    <p class="w3-xxlarge w3-serif"><i>"Make it as simple as possible, but not simpler."</i></p>
+    <p>Albert Einstein</p>
+  </div>
 </div>
 
 </body>
-</html> 
+</html>
 
